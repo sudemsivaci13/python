@@ -1,4 +1,4 @@
-# Support Vector Machines (SVM)
+# Breast Cancer Classification with Support Vector Machines (SVM)
 
 This project demonstrates a supervised machine learning workflow using Support Vector Machines (SVM) to classify breast cancer tumors as either malignant or benign based on digitized features from fine needle aspirate (FNA) images.
 
